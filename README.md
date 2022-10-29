@@ -46,7 +46,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![Vibhor Chaudhary's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaad&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Saad Mirza's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaad&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 
 [linkedin]: https://linkedin.com/in/saad-mirza-47145068
